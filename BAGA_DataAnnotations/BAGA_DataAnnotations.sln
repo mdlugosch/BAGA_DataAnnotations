@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{7AB9C9B2-38DA-4685-9677-3E29A49F443E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{82953702-380E-44A6-A5A0-AB48D2A69615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakAwayConsole", "BreakAwayConsole\BreakAwayConsole.csproj", "{3CF9FBEF-BD6E-4F43-9505-C3D5FCF3270B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AB9C9B2-38DA-4685-9677-3E29A49F443E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB9C9B2-38DA-4685-9677-3E29A49F443E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB9C9B2-38DA-4685-9677-3E29A49F443E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB9C9B2-38DA-4685-9677-3E29A49F443E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82953702-380E-44A6-A5A0-AB48D2A69615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82953702-380E-44A6-A5A0-AB48D2A69615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82953702-380E-44A6-A5A0-AB48D2A69615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82953702-380E-44A6-A5A0-AB48D2A69615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF9FBEF-BD6E-4F43-9505-C3D5FCF3270B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF9FBEF-BD6E-4F43-9505-C3D5FCF3270B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF9FBEF-BD6E-4F43-9505-C3D5FCF3270B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF9FBEF-BD6E-4F43-9505-C3D5FCF3270B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
